@@ -1,12 +1,12 @@
 {
-  "name": "@vscode/ripgrep",
-  "version": "1.15.14",
-  "description": "A module for using ripgrep in a Node project",
+  "name": "@cursor/ripgrep",
+  "version": "14.1.1",
+  "description": "A module for using ripgrep in a Node project - Cursor fork using official ripgrep releases",
   "main": "lib/index.js",
   "typings": "lib/index.d.ts",
   "repository": {
     "type": "git",
-    "url": "https://github.com/microsoft/vscode-ripgrep"
+    "url": "https://github.com/anysphere/cursor"
   },
   "scripts": {
     "postinstall": "node ./lib/postinstall.js"
