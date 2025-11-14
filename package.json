@@ -1,6 +1,6 @@
 {
   "name": "@cursor/ripgrep",
-  "version": "14.1.1-cursor3",
+  "version": "15.1.0-cursor3",
   "description": "A module for using ripgrep in a Node project - Cursor fork using official ripgrep releases",
   "main": "lib/index.js",
   "typings": "lib/index.d.ts",
